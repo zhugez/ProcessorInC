@@ -47,5 +47,5 @@
 
 # Typedef: sử dụng để cung cấp kiểu cho một tên mới.
 # Sự khác nhau giữa typedef và define
-. Typedef được giới hạn chỉ cung cấp các tên viết tắt cho các kiểu, trong khi đó #define có thể được sử dụng để định nghĩa tên hiệu cho cả các giá trị, như bạn có thể định nghĩa pi là 3.14, ….
-. Sự phiên dịch typedef được thực hiện bởi bộ biên dịch, trong khi lệnh #define được xử lý bởi bộ tiền xử lý.
+- Typedef được giới hạn chỉ cung cấp các tên viết tắt cho các kiểu, trong khi đó #define có thể được sử dụng để định nghĩa tên hiệu cho cả các giá trị, như bạn có thể định nghĩa pi là 3.14, ….
+- Sự phiên dịch typedef được thực hiện bởi bộ biên dịch, trong khi lệnh #define được xử lý bởi bộ tiền xử lý.
