@@ -1,3 +1,4 @@
+# Welcome to preprocessor learning by me ^^! <3 
 # Preprocessor: là một công cụ thay thế văn bản và nó chỉ thị trình biên dịch cần thực hiện trước khi biên dịch.
 ## #define: 
 - Thay thế macro tiền xử lý.
